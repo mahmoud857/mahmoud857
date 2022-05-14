@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hassan Mahmoud</h1>
 <h3 align="center">Machine Learning Engineer From Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
