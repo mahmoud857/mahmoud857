@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Mahmoud Hassan Mahmoud</h1>
 <h3 align="center">Machine Learning Engineer From Egypt</h3>
-<img align="right" alt="Coding" width="200" src="https://images.app.goo.gl/S645951j93mxnKa26">
+<img align="right" alt="Coding" width="200" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgroupgreets.com%2Fhow-group-greets-works_files%2Fimage_stack_img-2856.gif&imgrefurl=https%3A%2F%2Fgroupgreets.com%2Fhow-group-greets-works.php&tbnid=Q1aulfcDH6UEZM&vet=10CDEQMyh4ahcKEwiAlLnZr973AhUAAAAAHQAAAAAQAg..i&docid=P0S_y34zjqxxEM&w=350&h=300&q=animted%20machine%20learning%20gif&ved=0CDEQMyh4ahcKEwiAlLnZr973AhUAAAAAHQAAAAAQAg#imgrc=Q1aulfcDH6UEZM&imgdii=Z4S8KWNSkIkpdM">
 
 - 🌱 I’m currently learning **deep learning and read books about machine learning and data science**
 
