@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hassan Mahmoud</h1>
 <h3 align="center">Machine Learning Engineer From Egypt</h3>
-<https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media>
 
 - 🌱 I’m currently learning **deep learning and read books about machine learning and data science**
 
