@@ -1,7 +1,8 @@
-[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Mahmoud Hassan Mahmoud</h1>
 <h3 align="center">Machine Learning Engineer From Egypt</h3>
-<img align="right" alt="MachineLearning" width="300" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media.gif">
+
+
 
 - 🌱 I’m currently learning **deep learning and read books about machine learning and data science**
 
