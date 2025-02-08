@@ -1,4 +1,4 @@
-[![MasterHeader](https://i.imgur.com/QYE7j6R.gif)
+[![MasterHeader](https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif)
 <h1 align="center">Hi 👋, I'm Mahmoud Hassan Mahmoud</h1>
 <h3 align="center">Data Scientist&Analytics Engineer</h3>
 
